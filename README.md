@@ -1,6 +1,6 @@
 ## supervisor-hot-reload
 
-[supervisor](https://github.com/petruisfan/node-supervisor) + [hot-reload](https://github.com/nswbmw/proxy-hot-reload).
+supervisor-hot-reload = [supervisor](https://github.com/petruisfan/node-supervisor) + [proxy-hot-reload](https://github.com/nswbmw/proxy-hot-reload).
 
 ### Install
 
