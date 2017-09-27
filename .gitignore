@@ -2,3 +2,4 @@ test/sampleApp/node_modules/
 node_modules/
 *.iml
 .idea
+lib/proxy-hot-reload.js
